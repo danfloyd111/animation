@@ -16,4 +16,7 @@
 This is my first code repository on this platform, it's just a test project for me, I've made it principally to learn the git-hub
 system, so please be gentle with this "foo" project ;) .
 
+EDIT: I've added also the .pro file, so if you don't want to generate it with the qmake -project option, you can use directly
+qmake command to generate the makefile.
+
 D.
